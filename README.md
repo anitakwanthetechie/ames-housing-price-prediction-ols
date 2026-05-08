@@ -1,5 +1,5 @@
 # ames-housing-price-prediction-ols
-The following repository contains source code and documentation of an OLS machine learning model that was developed to predict housing prices for the Ames Dataset. 
+This repository contains source code and documentation of an OLS machine learning model that was developed to predict housing prices for the Ames Dataset. 
 
 # Dataset description
 The Ames Housing dataset was compiled by Dean De Cock as a modern alternative to the classic Boston Housing dataset, and covers residential property sales in Ames, Iowa from 2006 to 2010. It contains 2,930 observations and 80 features describing nearly every aspect of a home, from lot size, neighborhood, and zoning to basement finish, garage type, kitchen quality, and more. The target variable is SalePrice, making it a popular benchmark for regression tasks. Its rich mix of numerical and categorical variables, along with real-world messiness like missing data, skewed distributions, and influential outliers, makes it a go-to dataset for practicing the full data science workflow, from exploratory analysis and feature engineering to model building and evaluation.

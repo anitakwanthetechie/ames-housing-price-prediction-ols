@@ -1,4 +1,4 @@
-<meta name="image" property="og:image" content="Ames Project Graphic.png">
+<meta name="image" property="og:image" content="./Ames Project Graphic.png">
 
 # ames-housing-price-prediction-ols
 This repository contains source code and documentation of an OLS machine learning model that was developed to predict housing prices for the Ames Dataset. 

@@ -1,3 +1,5 @@
+![Ames Housing Banner](ames-housing-banner.png)
+
 # ames-housing-price-prediction-ols
 This repository contains source code and documentation of an OLS machine learning model that was developed to predict housing prices for the Ames Dataset. 
 

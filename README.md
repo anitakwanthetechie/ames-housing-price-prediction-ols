@@ -7,7 +7,7 @@ The Ames Housing dataset was compiled by Dean De Cock as a modern alternative to
 # Approach
 1. Drop columns with > 40% data missing
 2. Remove outliers recommended by dataset author
-3. Perform feature engineering
+3. Perform data imputation and feature engineering
 4. Determine variables that have the most influence on SalePrice (credit for this work goes to teammate Loris Fossier)
 5. Partitioning of data into training and test sets
 6. Build OLS Model with training set
